@@ -1,0 +1,128 @@
+.text1 {
+    font-size: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 1480px;
+}
+.text2 {
+    font-size: 20px;
+    margin-left: 20px;
+    margin-top: 50px;
+    width: 1550px;
+}
+.text1>hr, .text2>hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.text1>img, .text2>img {
+    display: inline-block;
+    width: 165px;
+    border-radius: 20px;
+}
+.po1, .po2, .po5 {
+    display: inline-block;
+    width: 500px;
+    margin-left: 20px;
+    margin-right: 40px;
+}
+.po3, .po4 {
+    display: inline-block;
+    width: 500px;
+    margin-top: 20px;
+}
+.po6 {
+    display: inline-block;
+    width: 500px;
+    margin-left: 20px;
+    position: absolute;
+    margin-left: 230px;
+    margin-top: 20px;
+}
+#po3 {
+    margin-right: 60px;
+}
+#po5 {
+    width: 170px;
+    margin-top: 20px;
+}
+#po6 {
+    width: 200px;
+    margin-top: 20px;
+    position: absolute;
+}
+
+
+
+.av1, .av2, .av3, .av4 {
+    width: 240px;
+    display: inline-block;
+    margin-bottom: 30px;
+}
+#av1 {
+    width: 110px;
+    margin-right: 5px;
+    margin-top: 20px;
+}
+#av2 {
+    margin-top: 20px;
+    margin-right: 5px;
+    width: 100px;
+}
+#av3 {
+    margin-top: 20px;
+    margin-right: 5px;
+    width: 150px;
+}
+#av4 {
+    margin-top: 20px;
+    width: 130px;
+    margin-right: 5px;
+}
+
+
+
+.text2>p {
+    width: 700px;
+}
+#us1 {
+    display: inline-block;
+    width: 110px;
+    margin-top: 15px;
+    margin-right: 5px;
+}
+#us2, #us3, #us4 {
+    display: inline-block;
+    width: 100px;
+    margin-top: 15px;
+    margin-right: 5px;
+}
+.us1 {
+    display: inline-block;
+    width: 200px;
+}
+.us2, .us3 {
+    display: inline-block;
+    width: 250px;
+}
+.us4 {
+    position: absolute;
+    width: 250px;
+    display: inline-block;
+    margin-top: 50px;
+}
+
+
+
+.footer {
+    padding-left: 20px;
+    padding-bottom: 30px;
+    padding-top: 20px;
+    background-color: rgb(255, 127, 35);
+    margin-top: 30px;
+}
+
+
+
+.po4>p>span, .po3>p>span {
+    color:mediumblue;
+}
